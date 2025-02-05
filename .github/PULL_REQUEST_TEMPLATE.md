@@ -8,7 +8,7 @@ At minimum each entry should have
 - Token Address:
 - Token Name:
 - Token Symbol:
-- Token Decimal:
+        - Token Decimal:kind back up but 
 - Logo URI: 
 - Link to the official homepage of token:
 - MarketCap Link if available (https://coinmarketcap.com/currencies/#TOKEN or https://www.coingecko.com/en/coins/#TOKEN):
